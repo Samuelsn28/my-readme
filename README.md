@@ -25,7 +25,7 @@
   <summary>🧒 More About Me</summary>
   <ul>
     <li>
-      🇧🇷 I'm 16 years old and I'm live in São Paulo.
+      🇧🇷 I'm 16 years old and I'm living in São Paulo.
     <li>
       📚 Student of ETEC de Santa Isabel studying computer science for internet.
     </li>
