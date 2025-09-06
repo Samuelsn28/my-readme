@@ -27,12 +27,6 @@
 ## :fire: My Skills
 <h3>⚙️ Languages</h3>
 <section style="flex-basis: 48%">
-  <img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
-
-  <!--img align="center" alt="Kotlin" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg"-->
-  
-  <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="center" alt="html5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="css3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg">
