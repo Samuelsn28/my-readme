@@ -11,9 +11,8 @@
 
 <br/>
 
-<img width="15%" height="15%" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" />
-
-<!-- img height:"20px" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" /-->
+<img width="16%" height="16%" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" />
+<p align="right">I'm just a &nbsp;<br> chill guy&nbsp;</p>
 
 <details>
   <summary>🤵 Who I'm</summary>
