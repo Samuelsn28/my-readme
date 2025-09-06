@@ -6,7 +6,7 @@
 
 <!-- Gif -->
 <p align="center">
-  <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif"/>
+  <img width="40%" height="40%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif"/>
 </p>
 
 <br/>
@@ -22,6 +22,7 @@
   <summary>♟ When I'm free... </summary>
   <p>┃ I like to reading books and learning about topics that interest to me, like math. I like also developing some crazy programs and enjoy a good landscape while I'm riding bicycle or walking</p>
 </details>
+
 <details>
   <summary>🌱 I'm currently studying</summary>
   <p>┃ JavaScript, PHP and SQL with MySQL</p>
