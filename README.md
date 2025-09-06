@@ -6,10 +6,15 @@
 
 <!-- Gif -->
 <p align="center">
-  <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif">
+  <img width="30%" height="30%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif"/>
 </p>
 
-<br>
+<br/>
+
+<img width="15%" height="15%" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" />
+
+<!-- img height:"20px" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" /-->
+
 <details>
   <summary>🤵 Who I'm</summary>
   <p>┃ I'm 17 years old, currently living in Brasil and my name is Samuel (of course). At the moment I'm studying in Etec de Santa Isabel.</p>
@@ -22,26 +27,27 @@
   <summary>🌱 I'm currently studying</summary>
   <p>┃ JavaScript, PHP and SQL with MySQL</p>
 </details>
-<br>
+
+<br/>
 
 ## :fire: My Skills
 <h3>⚙️ Languages</h3>
 <section style="flex-basis: 48%">
   
-  <img align="center" alt="php" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  <img align="center" alt="php" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"/>
   
-  <img align="center" alt="javascript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="javascript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"/>
   
-  <img align="center" alt="html5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg">
+  <img align="center" alt="html5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg"/>
 
-  <img align="center" alt="css3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg">
+  <img align="center" alt="css3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg"/>
   
 </section>
 
 <!--h3>🔧 Tools</h3>
 <section style="flex-basis: 48%">
   
-  <img align="center" alt="sublime" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sublime/sublime-original.svg">
+  sublime?
   
 </section-->
 
