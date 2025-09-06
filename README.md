@@ -27,11 +27,23 @@
 ## :fire: My Skills
 <h3>⚙️ Languages</h3>
 <section style="flex-basis: 48%">
+  
+  <img align="center" alt="php" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  
+  <img align="center" alt="javascript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+  
   <img align="center" alt="html5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="css3" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg">
   
 </section>
+
+<!--h3>🔧 Tools</h3>
+<section style="flex-basis: 48%">
+  
+  <img align="center" alt="sublime" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sublime/sublime-original.svg">
+  
+</section-->
 
 ## :bar_chart: My Stats
 ![All stats](https://github-readme-stats.vercel.app/api?username=Samuelsn28&show_icons=true&theme=github_dark)
