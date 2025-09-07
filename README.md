@@ -12,7 +12,7 @@
 <br/>
 
 <img width="16%" height="16%" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" />
-<p align="right">I'm just a &nbsp;<br> chill guy&nbsp;</p>
+<p align="right">I can be crazy &nbsp;<br> but I'm just a &nbsp;<br> chill guy&nbsp;</p>
 
 <details>
   <summary>🤵 Who I'm</summary>
