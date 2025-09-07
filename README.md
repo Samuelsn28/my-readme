@@ -15,7 +15,7 @@
 <p align="right">I can be crazy &nbsp;<br> but I'm just a &nbsp;<br> chill guy&nbsp;</p>
 
 <details>
-  <summary>🤵 Who I'm</summary>
+  <summary>🤵 Who I am</summary>
   <p>┃ I'm 17 years old, currently living in Brasil and my name is Samuel (of course). At the moment I'm studying in Etec de Santa Isabel.</p>
 </details>
 <details>
