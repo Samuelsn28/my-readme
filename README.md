@@ -9,8 +9,6 @@
   <img width="40%" height="40%" align="center" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Gif"/>
 </p>
 
-<br/>
-
 <img width="16%" height="16%" align="right" src="https://media.tenor.com/cu32Coz8TRgAAAAj/chill-guy-pixel-art.gif" />
 <p align="right">I can be crazy &nbsp;<br> but I'm just a &nbsp;<br> chill guy&nbsp;</p>
 
@@ -27,8 +25,6 @@
   <summary>🌱 I'm currently studying</summary>
   <p>┃ JavaScript, PHP and SQL with MySQL</p>
 </details>
-
-<br/>
 
 ## :fire: My Skills
 <h3>⚙️ Languages</h3>
